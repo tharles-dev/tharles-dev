@@ -1,13 +1,12 @@
 ## Olá! Eu sou o Tharles Costa 👋
 
-🎓 **Sobre mim**  
 📚 Formado em Engenharia de Software pela Anhanguera Educacional.  
-💻 Desenvolvedor Backend apaixonado por criar soluções criativas e eficientes.
+💻 Desenvolvedor Backend
 
 🛠️ **Tecnologias que utilizo:**  
 
-- **Front-end:** Angular, Tailwind CSS, TypeScript, Next.js  
-- **Back-end:** Laravel, Node.js, C#  
+- **Front-end:** Angular, Tailwind CSS, Flutter, TypeScript, Next.js
+- **Back-end:** C#, Laravel, Node.js
 - **Banco de Dados:** PostgreSQL, MongoDB, Firebase, Redis  
 - **Ferramentas e Plataformas:** Git, GitHub, Docker, Prisma, Axios  
 - **Testes:** xUnit.net, NUnit, Jest  
@@ -18,4 +17,3 @@
 💬 Fique à vontade para trocar ideias, colaborar ou apenas bater um papo sobre tecnologia!  
 📧 [tharlescostadesousa@gmail.com](mailto:tharlescostadesousa@gmail.com)  
 👉 Confira meu [Portfolio](https://tharles.dev).
-
