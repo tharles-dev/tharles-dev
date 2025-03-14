@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Tharles Costa 👋
 
 📚 Formado em Engenharia de Software pela Anhanguera Educacional.  
-💻 Desenvolvedor Backend apaixonado por criar soluções criativas e eficientes.
+💻 Desenvolvedor Backend.
 
 🛠️ **Tecnologias que utilizo:**  
 
